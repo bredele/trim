@@ -1,11 +1,10 @@
-
 # trim
 
   Trim util for IE8
 
 ## Installation
 
-    $ component install bredele/trim
+    $ component install leafs/trim
 
 ## API
 
